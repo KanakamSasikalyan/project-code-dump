@@ -1,0 +1,1 @@
+Risk Matrix Analysis: Is the tool that is used to evaluate the potential risk in organizattion, or enterprise by visualizing the matrix with likelihood aganist the severity
